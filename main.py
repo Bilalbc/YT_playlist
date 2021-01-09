@@ -8,9 +8,9 @@ from database import create_server_connection, create_db_connection, pop_playlis
 #api_key = os.environ.get('YT_API_KEY')
 
 
-pw = "Bilal2bilal123"
+pw = "*********"
 db = "playlist"
-api_key = 'AIzaSyCNGIMaSdGXn_ELLXoRjK8y8po5jb-9w-s'
+api_key = '**********************************'
 my_id = 'UCbBa_kxWNoW94_oazoZRsLg'
 pl_id = 'PL_mprygIH1ZJfpsZzs2QWuCJ3kX4mYpsI'
 
