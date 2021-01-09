@@ -2,7 +2,7 @@ import mysql.connector
 from mysql.connector import Error #for easier access to functions
 import pandas as pd
 
-pw = "Bilal2bilal123"
+pw = "***************"
 db = "playlist"
 
 #establish connection to SQL server
